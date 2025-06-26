@@ -187,7 +187,6 @@
         "image_URaWGC": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Home-1.png",
             "image_link": "",
             "image_width": 220,
             "image_width_mobile": 110
@@ -196,7 +195,6 @@
         "image_DyKWHM": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Travel-1.png",
             "image_link": "",
             "image_width": 220,
             "image_width_mobile": 110
@@ -205,7 +203,6 @@
         "image_NGQQmW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Schools-1.png",
             "image_link": "",
             "image_width": 220,
             "image_width_mobile": 110
@@ -214,7 +211,6 @@
         "image_L7pLat": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Business-1.png",
             "image_link": "",
             "image_width": 220,
             "image_width_mobile": 110
@@ -245,7 +241,6 @@
           "type": "featured_collection",
           "settings": {
             "collection": "personal-security-doorjammers",
-            "image": "shopify://shop_images/DJ3-image-resized.png",
             "title": "",
             "description": ""
           }
@@ -254,7 +249,6 @@
           "type": "featured_collection",
           "settings": {
             "collection": "business-industrial-security-doorjammers",
-            "image": "shopify://shop_images/DJ4-24.png",
             "title": "",
             "description": ""
           }
@@ -312,7 +306,6 @@
         "image_WQLRBj": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/in-the-know-SQ.png",
             "image_height": 92,
             "image_rounded": true,
             "image_link": "",
@@ -322,7 +315,6 @@
         "image_p6c9Fb": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/best-products-SQ.png",
             "image_height": 80,
             "image_rounded": true,
             "image_link": "",
@@ -332,7 +324,6 @@
         "image_i3axe6": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/dragons-den-SQ.png",
             "image_height": 80,
             "image_rounded": true,
             "image_link": "",
@@ -342,7 +333,6 @@
         "image_rMjhMM": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/good-good-SQ.png",
             "image_height": 80,
             "image_rounded": true,
             "image_link": "",
@@ -352,7 +342,6 @@
         "image_9EAm3A": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/megyn-kelly-SQ.png",
             "image_height": 80,
             "image_rounded": true,
             "image_link": "",
@@ -362,7 +351,6 @@
         "image_jMRmem": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/genius-club-SQ.png",
             "image_height": 80,
             "image_rounded": true,
             "image_link": "",
@@ -372,7 +360,6 @@
         "image_DETiEj": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/viral-trend-SQ.png",
             "image_height": 80,
             "image_rounded": true,
             "image_link": "",
@@ -382,7 +369,6 @@
         "image_ChgfPM": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Mornig-Live-SQ.png",
             "image_height": 80,
             "image_rounded": true,
             "image_link": "",
@@ -460,7 +446,6 @@
       ],
       "settings": {
         "color_scheme": "",
-        "image": "shopify://shop_images/Compare-1.jpg",
         "heading": "",
         "heading_size": "h1",
         "heading_highlight_style": "none",
@@ -478,7 +463,6 @@
         "column_6be7nJ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DJ3-how-to-use-img-1-2025.png",
             "image_width": "full",
             "title": "1",
             "heading_size": "h4",
@@ -493,7 +477,6 @@
         "column_m4RcYP": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DJ3-how-to-use-img-2-2025.png",
             "image_width": "full",
             "title": "2",
             "heading_size": "h4",
@@ -508,7 +491,6 @@
         "column_bRpkxq": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DJ3-how-to-use-img-3-2025.png",
             "image_width": "full",
             "title": "3",
             "heading_size": "h4",
@@ -873,7 +855,6 @@
       "settings": {
         "section_color_scheme": "",
         "color_scheme": "scheme-d3c4c0a8-8008-4fbe-9cb6-8b6689dfa03c",
-        "image": "shopify://shop_images/Due-image-v2.png",
         "image_height": "adapt",
         "layout": "text_first",
         "desktop_content_position": "center",
@@ -941,7 +922,6 @@
         "column_yfVhVb": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DJ3-image-resized_1.png",
             "image_width": "full",
             "title": "",
             "heading_size": "h4",
@@ -984,7 +964,6 @@
         "column_LhAJRK": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DJ4-24_1.png",
             "image_width": "full",
             "title": "",
             "heading_size": "h4",
@@ -1409,7 +1388,6 @@
             "desktop_image_position": "left",
             "image_width": 50,
             "alignment": "start",
-            "image": "shopify://shop_images/Tag-Us-CTA-2021-DJ.png",
             "image_ratio": "adapt",
             "image_overlay_opacity": 0,
             "heading": "",
@@ -1477,7 +1455,6 @@
           "type": "image_card",
           "settings": {
             "color_scheme": "",
-            "image": "shopify://shop_images/DJ-being-fitted-2.png",
             "image_ratio": "adapt",
             "image_overlay_opacity": 0,
             "heading": "",
@@ -1503,7 +1480,6 @@
           "type": "image_card",
           "settings": {
             "color_scheme": "",
-            "image": "shopify://shop_images/DJ3-AMAZON-Lifestyle-5.png",
             "image_ratio": "adapt",
             "image_overlay_opacity": 0,
             "heading": "",
@@ -1529,7 +1505,6 @@
           "type": "image_card",
           "settings": {
             "color_scheme": "",
-            "image": "shopify://shop_images/DoorJammer-Door-2.png",
             "image_ratio": "adapt",
             "image_overlay_opacity": 0,
             "heading": "",
