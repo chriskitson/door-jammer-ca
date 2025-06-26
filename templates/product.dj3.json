@@ -475,10 +475,11 @@
         "column_6mMR7m": {
           "type": "column",
           "settings": {
-            "image_width": "large",
-            "title": "Column",
+            "image": "shopify://shop_images/DJ3-how-to-use-img-3-2025_3de433de-2f2d-4943-94ed-8cb4b98669ad.png",
+            "image_width": "full",
+            "title": "3",
             "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pull the handle to check that the door is secure</p>",
             "text_size": "text-base",
             "button_label": "",
             "button_style": "btn--underline",
@@ -507,6 +508,47 @@
         "swipe_on_mobile": true,
         "padding_top": 20,
         "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "rich_text_EKx3k7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XxYJp3": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "hd1",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_QXtRQc": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_size": "text-base"
+          }
+        },
+        "button_wbaDqP": {
+          "type": "button",
+          "settings": {
+            "button_label": "Find out more",
+            "button_link": "shopify://pages/how-to-use",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_XxYJp3",
+        "text_QXtRQc",
+        "button_wbaDqP"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 60,
         "show_section_divider": false,
         "divider_width": "fixed"
       }
@@ -565,6 +607,7 @@
         "collapsible_item_aKpRFm",
         "collapsible_item_3c4PkF"
       ],
+      "disabled": true,
       "settings": {
         "container": "narrow",
         "color_scheme": "",
@@ -666,6 +709,7 @@
         "text_WiAYMn",
         "html_4bNp7y"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-6",
         "vertical_alignment": "center",
@@ -678,6 +722,31 @@
         "padding_bottom": 40,
         "show_divider": false,
         "divider_layout": "vertical"
+      }
+    },
+    "recently_viewed_products_kzzaeq": {
+      "type": "recently-viewed-products",
+      "name": "t:sections.recently-viewed-products.name",
+      "settings": {
+        "color_scheme": "",
+        "heading": "Recently viewed products",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "limit": 2,
+        "columns": 4,
+        "column_gap": "extra-large",
+        "row_gap": "extra-large",
+        "enable_slider": true,
+        "controls_position": "inside",
+        "pcard_image_ratio": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": true,
+        "divider_width": "fixed"
       }
     },
     "related-products": {
@@ -714,8 +783,10 @@
     "rich_text_7rBwdd",
     "image_with_text_MgddA8",
     "multicolumn_Mxt4d3",
+    "rich_text_EKx3k7",
     "collapsible_tabs_phAkEE",
     "scrolling_promotion_WAekUk",
+    "recently_viewed_products_kzzaeq",
     "related-products"
   ]
 }
