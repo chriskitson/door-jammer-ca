@@ -104,6 +104,7 @@
           "settings": {
             "content_color_scheme": "scheme-2",
             "navigation_title": "How To Use",
+            "image": "shopify://shop_images/DJ3-LIFESTYLE-2_70ce9bb6-1d6b-4d34-9612-fd9ebd439068.jpg",
             "heading": "How To Use",
             "heading_size": "h1",
             "heading_highlight_style": "none",
@@ -278,6 +279,7 @@
             "desktop_image_position": "left",
             "image_width": 50,
             "alignment": "center",
+            "image": "shopify://shop_images/DJ-and-LD-Lifestyle-Duo.png",
             "image_ratio": "adapt",
             "image_overlay_opacity": 0,
             "heading": "",
@@ -479,6 +481,7 @@
         "subheading": "",
         "description": "",
         "description_size": "text-base",
+        "image": "shopify://shop_images/DoorJammer-2-sizes-square-EDIT.png",
         "image_aspect_ratio": "1/1",
         "image_position": "left",
         "annotation_color": "light",
