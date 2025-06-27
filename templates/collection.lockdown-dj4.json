@@ -23,7 +23,7 @@
           "settings": {
             "heading_size": "hd2",
             "heading_tag": "h1",
-            "show_description": false,
+            "show_description": true,
             "padding_top": 0,
             "padding_bottom": 0
           }
@@ -34,8 +34,8 @@
       ],
       "custom_css": [],
       "settings": {
-        "color_scheme": "scheme-inverse",
-        "image_overlay_opacity": 10,
+        "color_scheme": "scheme-1",
+        "image_overlay_opacity": 0,
         "image_position": "as-bg",
         "image_height": "extra-small",
         "text_alignment": "center",
@@ -50,17 +50,129 @@
       "type": "main-collection-product-grid",
       "custom_css": [],
       "settings": {
-        "color_scheme": "scheme-9",
-        "products_per_page": 16,
-        "columns_desktop": 4,
-        "pagination": "infinite",
+        "color_scheme": "scheme-1",
+        "products_per_page": 8,
+        "columns_desktop": 2,
+        "grid_layout": "standard",
+        "pagination": "number",
         "enable_filtering": true,
-        "filter_type": "drawer",
+        "filter_type": "vertical",
         "enable_sorting": true,
         "expand_filter_groups": "Availability, Price, Color, Size, Product type",
-        "columns_mobile": "2",
-        "padding_top": 0,
-        "padding_bottom": 100,
+        "columns_mobile": "1",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "show_section_divider": true,
+        "divider_width": "fixed"
+      }
+    },
+    "feature_list_EjR4Wt": {
+      "type": "feature-list",
+      "blocks": {
+        "feature_item_khPBxE": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "",
+            "icon": "heart",
+            "icon_style": "btn--primary",
+            "text": "12 Month Warranty"
+          }
+        },
+        "feature_item_aGBaRL": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "",
+            "icon": "currency-circle-dollar",
+            "icon_style": "btn--primary",
+            "text": "Secure Payments"
+          }
+        },
+        "feature_item_tFhmRD": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "",
+            "icon": "certificate",
+            "icon_style": "btn--primary",
+            "text": "Patented Design"
+          }
+        },
+        "feature_item_3dDCdg": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "",
+            "icon": "confetti",
+            "icon_style": "btn--primary",
+            "text": "Award-Winning"
+          }
+        }
+      },
+      "block_order": [
+        "feature_item_khPBxE",
+        "feature_item_aGBaRL",
+        "feature_item_tFhmRD",
+        "feature_item_3dDCdg"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "subheading": "",
+        "heading": "",
+        "heading_size": "h2",
+        "heading_highlight_style": "none",
+        "description": "",
+        "text_size": "text-base",
+        "item_alignment": "center",
+        "icon_size": "extra-medium",
+        "swipe_on_mobile": true,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "video_with_text_nKngwc": {
+      "type": "video-with-text",
+      "blocks": {
+        "subheading_A3Ve38": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "The Original Door Security Device"
+          }
+        },
+        "heading_RpnAGH": {
+          "type": "heading",
+          "settings": {
+            "heading": "EST. 2013",
+            "heading_size": "h1",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_kgCJJX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>DoorJammer was the first portable door security device of its kind. It's certified, proven and patented design continues to outperform, creating genuine peace of mind and added security for customer. </p><p>Today, we have sold over 750,000 DoorJammer worldwide, empowering travellers, enhancing home security and protecting students and schools.</p>",
+            "text_size": "text-base"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_A3Ve38",
+        "heading_RpnAGH",
+        "text_kgCJJX"
+      ],
+      "settings": {
+        "color_scheme": "scheme-3",
+        "video": "shopify://files/videos/Untitled design (1).mp4",
+        "video_url": "https://www.youtube.com/watch?v=6irfIQp8tp4&t=28s",
+        "video_ratio": "adapt",
+        "description": "",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "video_placement": "first",
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "text_alignment": "left",
+        "padding_top": 50,
+        "padding_bottom": 50,
         "show_section_divider": false,
         "divider_width": "fixed"
       }
@@ -69,6 +181,8 @@
   "order": [
     "breadcrumbs_Gxg9wp",
     "banner",
-    "product-grid"
+    "product-grid",
+    "feature_list_EjR4Wt",
+    "video_with_text_nKngwc"
   ]
 }
