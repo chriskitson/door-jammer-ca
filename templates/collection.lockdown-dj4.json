@@ -176,6 +176,111 @@
         "show_section_divider": false,
         "divider_width": "fixed"
       }
+    },
+    "multicolumn_8VD7DC": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_azzqin": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Lockdown-Install-1_e0f17525-703b-4a72-81c0-3c9c2132ef3f.png",
+            "image_width": "full",
+            "title": "1",
+            "heading_size": "h4",
+            "text": "<p>Insert the flat part of DoorJammer Lockdown all the way under the door directly beneath the handle or where the handle would be</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        },
+        "column_jKwUjx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Lockdown-Install-2_256x256_448185e3-5775-43e7-be9a-47b1e42e5df0.png",
+            "image_width": "full",
+            "title": "2",
+            "heading_size": "h4",
+            "text": "<p>Twist the screwclockwise to extend the foot until it is firm against the floor</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        },
+        "column_hB9wR4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Lockdown-Install-3_1235839c-d5b6-4f91-a324-fca4449859cf.png",
+            "image_width": "full",
+            "title": "3",
+            "heading_size": "h4",
+            "text": "<p>Pull the handle to check that the door is secure</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        }
+      },
+      "block_order": [
+        "column_azzqin",
+        "column_jKwUjx",
+        "column_hB9wR4"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "heading": "How To Use",
+        "heading_size": "h2",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "text_size": "text-base",
+        "column_alignment": "center",
+        "columns_desktop": 3,
+        "column_gap": "extra-large",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 50,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "rich_text_kwNc73": {
+      "type": "rich-text",
+      "blocks": {
+        "text_XUwxzB": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>For more information on how to use our DoorJammers, click the button below.</strong></p>",
+            "text_size": "text-base"
+          }
+        },
+        "button_jdhKpg": {
+          "type": "button",
+          "settings": {
+            "button_label": "How To Use",
+            "button_link": "shopify://pages/how-to-use",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "text_XUwxzB",
+        "button_jdhKpg"
+      ],
+      "settings": {
+        "color_scheme": "scheme-d3c4c0a8-8008-4fbe-9cb6-8b6689dfa03c",
+        "content_alignment": "center",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
     }
   },
   "order": [
@@ -183,6 +288,8 @@
     "banner",
     "product-grid",
     "feature_list_EjR4Wt",
-    "video_with_text_nKngwc"
+    "video_with_text_nKngwc",
+    "multicolumn_8VD7DC",
+    "rich_text_kwNc73"
   ]
 }
