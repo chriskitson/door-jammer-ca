@@ -9,12 +9,6 @@
  */
 {
   "sections": {
-    "breadcrumbs_Gxg9wp": {
-      "type": "breadcrumbs",
-      "settings": {
-        "text_alignment": "center"
-      }
-    },
     "banner": {
       "type": "main-collection-banner",
       "blocks": {
@@ -23,7 +17,7 @@
           "settings": {
             "heading_size": "hd2",
             "heading_tag": "h1",
-            "show_description": false,
+            "show_description": true,
             "padding_top": 0,
             "padding_bottom": 0
           }
@@ -34,41 +28,368 @@
       ],
       "custom_css": [],
       "settings": {
-        "color_scheme": "scheme-inverse",
-        "image_overlay_opacity": 10,
-        "image_position": "as-bg",
+        "color_scheme": "scheme-1",
+        "image_overlay_opacity": 0,
+        "image_position": "top",
         "image_height": "extra-small",
         "text_alignment": "center",
         "enable_parallax": true,
         "parallax_direction": "vertical",
         "image_height_mobile": "auto",
-        "padding_top": 0,
-        "padding_bottom": 40
+        "padding_top": 38,
+        "padding_bottom": 60
       }
     },
     "product-grid": {
       "type": "main-collection-product-grid",
       "custom_css": [],
       "settings": {
-        "color_scheme": "scheme-9",
-        "products_per_page": 16,
-        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "products_per_page": 8,
+        "columns_desktop": 2,
+        "grid_layout": "standard",
         "pagination": "infinite",
         "enable_filtering": true,
-        "filter_type": "drawer",
+        "filter_type": "vertical",
         "enable_sorting": true,
-        "expand_filter_groups": "Availability, Price, Color, Size, Product type",
+        "expand_filter_groups": "Price, Size",
         "columns_mobile": "2",
-        "padding_top": 0,
-        "padding_bottom": 100,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "show_section_divider": true,
+        "divider_width": "fixed"
+      }
+    },
+    "feature_list_KTf4cr": {
+      "type": "feature-list",
+      "blocks": {
+        "feature_item_7Xng7f": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "icon": "heart",
+            "icon_style": "btn--primary",
+            "text": "12 Month Warranty"
+          }
+        },
+        "feature_item_NBrMYU": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "icon": "currency-circle-dollar",
+            "icon_style": "btn--primary",
+            "text": "Secure Payments"
+          }
+        },
+        "feature_item_hfyVLt": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "icon": "certificate",
+            "icon_style": "btn--primary",
+            "text": "Patented Design"
+          }
+        },
+        "feature_item_tNY9xd": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "",
+            "icon": "confetti",
+            "icon_style": "btn--primary",
+            "text": "Award-Winning"
+          }
+        }
+      },
+      "block_order": [
+        "feature_item_7Xng7f",
+        "feature_item_NBrMYU",
+        "feature_item_hfyVLt",
+        "feature_item_tNY9xd"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "subheading": "",
+        "heading": "",
+        "heading_size": "h2",
+        "heading_highlight_style": "none",
+        "description": "",
+        "text_size": "text-base",
+        "item_alignment": "center",
+        "icon_size": "extra-medium",
+        "swipe_on_mobile": true,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "video_with_text_FYCVqw": {
+      "type": "video-with-text",
+      "blocks": {
+        "subheading_9zpVmH": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "The Original Door Security Device"
+          }
+        },
+        "heading_bDf3CQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "EST. 2013",
+            "heading_size": "h1",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_wwKEzb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>DoorJammer was the first portable door security device of its kind. It's certified, proven and patented design continues to outperform, creating genuine peace of mind and added security for customer. </p><p>Today, we have sold over 750,000 DoorJammer worldwide, empowering travellers, enhancing home security and protecting students and schools.</p>",
+            "text_size": "text-base"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_9zpVmH",
+        "heading_bDf3CQ",
+        "text_wwKEzb"
+      ],
+      "name": "t:sections.video-with-text.name",
+      "settings": {
+        "color_scheme": "scheme-3",
+        "video": "shopify://files/videos/Untitled design (1).mp4",
+        "video_url": "https://www.youtube.com/watch?v=6irfIQp8tp4&t=28s",
+        "video_ratio": "adapt",
+        "description": "",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "video_placement": "first",
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "text_alignment": "left",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "multicolumn_9DwKjm": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_c84UwG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DJ3-how-to-use-img-1-2025.png",
+            "image_width": "full",
+            "title": "1",
+            "heading_size": "h4",
+            "text": "<p>Insert the flat part of DoorJammer all the way under the door directly beneath the handle or where the handle would be</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        },
+        "column_QQW3TQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DJ3-how-to-use-img-2-2025.png",
+            "image_width": "full",
+            "title": "2",
+            "heading_size": "h4",
+            "text": "<p>Twist the screwclockwise to extend the foot until it is firm against the floor</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        },
+        "column_QYQCxQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DJ3-how-to-use-img-3-2025.png",
+            "image_width": "full",
+            "title": "3",
+            "heading_size": "h4",
+            "text": "<p>Pull the handle to check that the door is secure</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        }
+      },
+      "block_order": [
+        "column_c84UwG",
+        "column_QQW3TQ",
+        "column_QYQCxQ"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "heading": "<a href=\"/pages/how-to-use\" target=\"_blank\" title=\"How to use\"><strong>How To Use</strong></a>",
+        "heading_size": "h2",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "text_size": "text-base",
+        "column_alignment": "center",
+        "columns_desktop": 3,
+        "column_gap": "extra-large",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 26,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "scrolling_promotion_tCtKFE": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "text_9nqf9n": {
+          "type": "text",
+          "settings": {
+            "text": "AS SEEN ON",
+            "text_link": "",
+            "text_size": "h3",
+            "font_weight": "font-heading",
+            "font_style": "normal",
+            "letter_spacing": 0,
+            "text_opacity": 100,
+            "text_style": "normal",
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        },
+        "image_cc8ypi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/megyn-kelly-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_BdLcmp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/genius-club-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_WXTKJx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/in-the-know-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_mLjbB7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/good-good-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_EM744d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/dragons-den-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_4p8qJW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/best-products-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_tdxwtd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/viral-trend-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        }
+      },
+      "block_order": [
+        "text_9nqf9n",
+        "image_cc8ypi",
+        "image_BdLcmp",
+        "image_WXTKJx",
+        "image_mLjbB7",
+        "image_EM744d",
+        "image_4p8qJW",
+        "image_tdxwtd"
+      ],
+      "settings": {
+        "color_scheme": "scheme-d3c4c0a8-8008-4fbe-9cb6-8b6689dfa03c",
+        "vertical_alignment": "center",
+        "direction": "left",
+        "pause_on_hover": true,
+        "speed": 0.2,
+        "h_spacing": 50,
+        "v_spacing": 28,
+        "padding_top": 10,
+        "padding_bottom": 10,
+        "show_divider": false,
+        "divider_layout": "vertical"
+      }
+    },
+    "recently_viewed_products_aPGWgP": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "color_scheme": "",
+        "heading": "Recently viewed products",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "limit": 8,
+        "columns": 4,
+        "column_gap": "medium",
+        "row_gap": "inherit",
+        "enable_slider": true,
+        "controls_position": "inside",
+        "pcard_image_ratio": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 50,
+        "padding_bottom": 50,
         "show_section_divider": false,
         "divider_width": "fixed"
       }
     }
   },
   "order": [
-    "breadcrumbs_Gxg9wp",
     "banner",
-    "product-grid"
+    "product-grid",
+    "feature_list_KTf4cr",
+    "video_with_text_FYCVqw",
+    "multicolumn_9DwKjm",
+    "scrolling_promotion_tCtKFE",
+    "recently_viewed_products_aPGWgP"
   ]
 }
