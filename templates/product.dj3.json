@@ -110,9 +110,9 @@
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab heading",
-            "icon": "none",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
+            "heading": "Included In Box",
+            "icon": "package",
+            "content": "<p>{{ product.metafields.custom.included_in_box | metafield_tag }}</p>",
             "page": "",
             "default_open": false
           }
