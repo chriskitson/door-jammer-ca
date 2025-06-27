@@ -100,24 +100,14 @@
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab heading",
-            "icon": "none",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
+            "heading": "Dimensions",
+            "icon": "ruler",
+            "content": "<p><strong>Height:</strong> {{ product.metafields.custom.height.value }}<br/><strong>Width:</strong> {{ product.metafields.custom.width.value }}<br/><strong>Depth: </strong>{{ product.metafields.custom.depth.value }}<br/><strong>Weight:</strong> {{ product.metafields.custom.weight.value }}<br/><strong>Space required under door: </strong>{{ product.metafields.custom.space_required_under_door.value }}</p>",
             "page": "",
             "default_open": false
           }
         },
         "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Collapsible tab heading",
-            "icon": "none",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
-            "page": "",
-            "default_open": false
-          }
-        },
-        "collapsible-row-3": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "Collapsible tab heading",
@@ -148,7 +138,6 @@
         "complementary",
         "collapsible-row-1",
         "collapsible-row-2",
-        "collapsible-row-3",
         "addons"
       ],
       "settings": {
