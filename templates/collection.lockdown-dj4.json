@@ -281,6 +281,71 @@
         "show_section_divider": false,
         "divider_width": "fixed"
       }
+    },
+    "video_with_text_9M793y": {
+      "type": "video-with-text",
+      "blocks": {
+        "heading_UQLJ4e": {
+          "type": "heading",
+          "settings": {
+            "heading": "See DoorJammer Lockdown In Action",
+            "heading_size": "h1",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_naXAwm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Watch the video to see how easy it is to create a safe space in seconds...</p>",
+            "text_size": "text-base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UQLJ4e",
+        "text_naXAwm"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "video_url": "https://www.youtube.com/watch?v=Wjjy7rmIhAU",
+        "cover_image": "shopify://shop_images/DJ-LD-youtube-thumbnail-4.png",
+        "video_ratio": "adapt",
+        "description": "",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "video_placement": "first",
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "text_alignment": "left",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "recently_viewed_products_jkbwAg": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "color_scheme": "",
+        "heading": "Recently viewed products",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "limit": 8,
+        "columns": 4,
+        "column_gap": "medium",
+        "row_gap": "inherit",
+        "enable_slider": true,
+        "controls_position": "inside",
+        "pcard_image_ratio": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
     }
   },
   "order": [
@@ -290,6 +355,8 @@
     "feature_list_EjR4Wt",
     "video_with_text_nKngwc",
     "multicolumn_8VD7DC",
-    "rich_text_kwNc73"
+    "rich_text_kwNc73",
+    "video_with_text_9M793y",
+    "recently_viewed_products_jkbwAg"
   ]
 }
