@@ -42,13 +42,13 @@
         "divider_width": "fixed"
       }
     },
-    "collage_tabs_n8PckJ": {
+    "collage_tabs_8AtVix": {
       "type": "collage-tabs",
       "blocks": {
-        "tab_CeYik4": {
+        "tab_CgJVLL": {
           "type": "tab",
           "settings": {
-            "content_color_scheme": "",
+            "content_color_scheme": "scheme-2",
             "navigation_title": "Our Story",
             "image": "shopify://shop_images/Hotel_Door.jpg",
             "heading": "How was DoorJammer created?",
@@ -63,7 +63,7 @@
             "button_style": "btn--primary"
           }
         },
-        "tab_hhjFRk": {
+        "tab_adzweH": {
           "type": "tab",
           "settings": {
             "content_color_scheme": "",
@@ -81,7 +81,7 @@
             "button_style": "btn--primary"
           }
         },
-        "tab_h9AaU9": {
+        "tab_dM4Uwg": {
           "type": "tab",
           "settings": {
             "content_color_scheme": "scheme-2",
@@ -99,12 +99,11 @@
             "button_style": "btn--primary"
           }
         },
-        "tab_Mfwyxx": {
+        "tab_KWKjaz": {
           "type": "tab",
           "settings": {
             "content_color_scheme": "scheme-2",
             "navigation_title": "How To Use",
-            "image": "shopify://shop_images/DJ3-LIFESTYLE-2_b01b7d7c-2388-4cff-b5d3-42d94d08ac7b.jpg",
             "heading": "How To Use",
             "heading_size": "h1",
             "heading_highlight_style": "none",
@@ -119,12 +118,11 @@
         }
       },
       "block_order": [
-        "tab_CeYik4",
-        "tab_hhjFRk",
-        "tab_h9AaU9",
-        "tab_Mfwyxx"
+        "tab_CgJVLL",
+        "tab_adzweH",
+        "tab_dM4Uwg",
+        "tab_KWKjaz"
       ],
-      "name": "t:sections.collage-tabs.presets.name",
       "settings": {
         "color_scheme": "",
         "heading_size": "h4",
@@ -280,7 +278,6 @@
             "desktop_image_position": "left",
             "image_width": 50,
             "alignment": "center",
-            "image": "shopify://shop_images/DJ-and-LD-Lifestyle-Duo.png",
             "image_ratio": "adapt",
             "image_overlay_opacity": 0,
             "heading": "",
@@ -482,7 +479,6 @@
         "subheading": "",
         "description": "",
         "description_size": "text-base",
-        "image": "shopify://shop_images/DoorJammer-2-sizes-square-EDIT.png",
         "image_aspect_ratio": "1/1",
         "image_position": "left",
         "annotation_color": "light",
@@ -505,7 +501,7 @@
   },
   "order": [
     "rich_text_Mfhd8W",
-    "collage_tabs_n8PckJ",
+    "collage_tabs_8AtVix",
     "scrolling_promotion_pdHmLH",
     "collapsible_tabs_zBcm89",
     "feature_list_qp6xWY",
