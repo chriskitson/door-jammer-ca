@@ -206,7 +206,7 @@
           "settings": {
             "icon": "none",
             "heading": "How thick is DoorJammer's extension foot?",
-            "content": "<p>The foot will extend DoorJammer by 11mm.</p>",
+            "content": "<p>The foot will extend DoorJammer by 11mm / 0.4\".</p>",
             "custom_liquid": "",
             "page": "",
             "open": false
