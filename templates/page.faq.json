@@ -173,7 +173,7 @@
           "settings": {
             "icon": "none",
             "heading": "Does DoorJammer fit to a uPVC door?",
-            "content": "<p>DoorJammer requires a minimum 3mm gap under a door to fit - most uPVC doors do not have this gap.</p>",
+            "content": "<p>DoorJammer requires a minimum 3mm / 1/4\" gap under a door to fit - most uPVC doors do not have this gap.</p>",
             "custom_liquid": "",
             "page": "",
             "open": false
