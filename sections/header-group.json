@@ -31,9 +31,8 @@
         },
         "text_MU4KUX": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "🚚 Free Shipping on orders over £100",
+            "text": "🚚 Free Shipping on all Canadian orders",
             "text_link": "",
             "text_size": "text-base",
             "font_weight": "font-heading",
