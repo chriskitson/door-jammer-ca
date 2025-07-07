@@ -195,7 +195,7 @@
           "settings": {
             "icon": "none",
             "heading": "Does DoorJammer work on all doors?",
-            "content": "<p>DoorJammer only works on inward-opening and inswinging doors. DoorJammer needs a minimum clearance of 3mm between the floor and the underneath of the door to fit and work correctly. </p>",
+            "content": "<p>DoorJammer only works on inward-opening and inswinging doors. DoorJammer needs a minimum clearance of 3mm / 1/4\" between the floor and the underneath of the door to fit and work correctly. </p>",
             "custom_liquid": "",
             "page": "",
             "open": false
