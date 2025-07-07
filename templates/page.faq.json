@@ -63,7 +63,7 @@
           "settings": {
             "icon": "none",
             "heading": "How much space is needed under the door to use DoorJammer?",
-            "content": "<p>You will need a minimum of 3mm to fit DoorJammer. The maximum gap for DoorJammer is approximately 33mm and for Lockdown, it's 42mm</p>",
+            "content": "<p>You will need a minimum of 3mm / 1/4\" to fit DoorJammer. The maximum gap for DoorJammer is approximately 33mm / 1.3\" and for Lockdown, it's 42mm / 1.6\".</p>",
             "custom_liquid": "",
             "page": "",
             "open": true
@@ -96,7 +96,7 @@
           "settings": {
             "icon": "none",
             "heading": "If my door is fitted with a draft excluder or a rubber kickstrip, will DoorJammer still work?",
-            "content": "<p>As long as the strip does not prevent DoorJammer fitting under the door - there needs to be a minimum gap of 3mm for the DoorJammer to fit and work correctly. Crushing or damage to the strip could occur, however.</p>",
+            "content": "<p>As long as the strip does not prevent DoorJammer fitting under the door - there needs to be a minimum gap of 3mm / 1/4\" for the DoorJammer to fit and work correctly. Crushing or damage to the strip could occur, however.</p>",
             "custom_liquid": "",
             "page": "",
             "open": false
