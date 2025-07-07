@@ -1363,7 +1363,7 @@
           "settings": {
             "icon": "none",
             "heading": "How much space is needed under the door to use DoorJammer?",
-            "content": "<p>You will need a minimum of 3mm to fit DoorJammer. The maximum gap for DoorJammer is approximately 33mm and for Lockdown, it's 42mm.</p>",
+            "content": "<p>You will need a minimum of 3mm / 1/4\" to fit DoorJammer. The maximum gap for DoorJammer is approximately 33mm / 1.3\" and for Lockdown, it's 42mm / 1.6\".</p>",
             "custom_liquid": "",
             "page": "",
             "open": true
@@ -1374,7 +1374,7 @@
           "settings": {
             "icon": "none",
             "heading": "Does DoorJammer fit to a uPVC door?",
-            "content": "<p>DoorJammer requires a minimum 3mm gap under a door to fit - most uPVC doors do not have this gap.</p>",
+            "content": "<p>DoorJammer requires a minimum 3mm / 1/4\" gap under a door to fit - most uPVC doors do not have this gap.</p>",
             "custom_liquid": "",
             "page": "",
             "open": false
