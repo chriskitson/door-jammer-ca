@@ -37,7 +37,7 @@
             "image_width": 150,
             "text": "<p>DoorJammer was invented by product designer Von Saint while on holiday in Mexico. Necessity became the mother of invention when he discovered his hotel room's broken door lock...</p>",
             "button_label": "Learn More",
-            "button_link": "shopify://pages/about-doorjammer",
+            "button_link": "shopify://pages/about-us",
             "open_default": false,
             "show_divider": false
           }
