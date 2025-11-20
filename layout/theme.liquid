@@ -65,6 +65,16 @@
     {% comment %} Custom metafield for head tag like GTag tracking {% endcomment %}
     {{ shop.metafields.foxtheme.code_head.value }}
     {% comment %} End custom metafield for head tag like GTag tracking {% endcomment %}
+     <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-968555007"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-968555007');
+</script>
+
   </head>
 
   <body
