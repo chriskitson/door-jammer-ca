@@ -46,20 +46,13 @@
           "type": "description",
           "settings": {}
         },
-        "inventory": {
-          "type": "inventory",
-          "settings": {
-            "text_style": "body",
-            "inventory_threshold": 20,
-            "show_inventory_quantity": true
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_type": "button",
             "button_style": "standard",
-            "enable_color_swatches": true,
+            "enable_color_swatches": false,
             "swatch_type": "color_swatch",
             "size_title": "Size",
             "size_chart_from_page": ""
@@ -137,7 +130,6 @@
         "price",
         "sku_zFqyTt",
         "description",
-        "inventory",
         "variant_picker",
         "buy_buttons",
         "icon_with_text",
