@@ -377,13 +377,31 @@
     "feature_list_qp6xWY": {
       "type": "feature-list",
       "blocks": {
+        "feature_item_PfzWWA": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "scheme-2",
+            "icon": "heart",
+            "icon_style": "btn--secondary",
+            "text": "Patented Design"
+          }
+        },
+        "feature_item_eVBCae": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "scheme-2",
+            "icon": "seal-check",
+            "icon_style": "btn--secondary",
+            "text": "12 Month Warranty"
+          }
+        },
         "feature_item_ntp3wD": {
           "type": "feature_item",
           "settings": {
             "color_scheme": "scheme-2",
             "icon": "gear",
             "icon_style": "btn--secondary",
-            "text": "immovable"
+            "text": "Immovable"
           }
         },
         "feature_item_Q3K3hW": {
@@ -392,14 +410,14 @@
             "color_scheme": "scheme-2",
             "icon": "star-four",
             "icon_style": "btn--secondary",
-            "text": "Hassle-Free"
+            "text": "No Tools Required"
           }
         },
         "feature_item_JWBLhU": {
           "type": "feature_item",
           "settings": {
             "color_scheme": "scheme-2",
-            "icon": "seal-check",
+            "icon": "check",
             "icon_style": "btn--secondary",
             "text": "Instant"
           }
@@ -424,6 +442,8 @@
         }
       },
       "block_order": [
+        "feature_item_PfzWWA",
+        "feature_item_eVBCae",
         "feature_item_ntp3wD",
         "feature_item_Q3K3hW",
         "feature_item_JWBLhU",
