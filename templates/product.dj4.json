@@ -36,6 +36,12 @@
           "type": "price",
           "settings": {}
         },
+        "sku_ULTdXW": {
+          "type": "sku",
+          "settings": {
+            "text_style": "subtitle"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {}
@@ -77,8 +83,8 @@
             "heading_1": "PAS24 Impact Tested",
             "icon_2": "star-four",
             "heading_2": "12 month warranty",
-            "icon_3": "star-four",
-            "heading_3": ""
+            "icon_3": "package",
+            "heading_3": "Discounts for bulk orders available <a href=\"/pages/contact\" target=\"_blank\" title=\"Contact\">on request</a>"
           }
         },
         "pickup_availability": {
@@ -129,6 +135,7 @@
         "badges",
         "title",
         "price",
+        "sku_ULTdXW",
         "description",
         "inventory",
         "variant_picker",
