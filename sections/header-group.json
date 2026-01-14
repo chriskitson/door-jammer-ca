@@ -48,7 +48,7 @@
           "type": "text",
           "settings": {
             "text": "🤝 Bulk order discounts available upon request",
-            "text_link": "shopify://pages/contact",
+            "text_link": "shopify://pages/bulk-order-discounts",
             "text_size": "text-base",
             "font_weight": "font-heading",
             "font_style": "normal",
