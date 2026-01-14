@@ -782,7 +782,7 @@
     "related-products": {
       "type": "related-products",
       "settings": {
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-3",
         "heading": "You may also like",
         "heading_size": "h2",
         "heading_highlight_style": "none",
@@ -797,7 +797,7 @@
         "pcard_image_ratio": "",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 0,
+        "padding_top": 30,
         "padding_bottom": 100,
         "show_section_divider": false,
         "divider_width": "fixed"
