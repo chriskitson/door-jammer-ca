@@ -255,6 +255,17 @@
             "page": "",
             "open": false
           }
+        },
+        "collapsible_item_Mk4R4C": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "Do you offer discounts for large quantity orders?",
+            "content": "<p>Yes, we offer tailored pricing and support for organisations, businesses, and professionals who require larger quantities of our products. <a href=\"/pages/bulk-order-discounts\" title=\"Bulk Order Discounts\">Contact us</a> to discuss your needs today.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false
+          }
         }
       },
       "block_order": [
@@ -275,7 +286,8 @@
         "collapsible_item_NtTxJC",
         "collapsible_item_YgagdG",
         "collapsible_item_Bb4xdb",
-        "collapsible_item_dFNPtC"
+        "collapsible_item_dFNPtC",
+        "collapsible_item_Mk4R4C"
       ],
       "custom_css": [
         ".collapsible-tabs__wrapper {--row-gap-mobile: 4.8rem !important;}",
