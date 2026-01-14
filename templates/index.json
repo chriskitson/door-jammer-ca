@@ -1422,8 +1422,8 @@
           "type": "collapsible_item",
           "settings": {
             "icon": "none",
-            "heading": "What materials are used to make DoorJammer?",
-            "content": "<p>We only use high-grade steel to achieve DoorJammer's incredible strength. Smaller parts and accessories are rubber and plastic.</p>",
+            "heading": "Do you offer discounts for large quantity orders?",
+            "content": "<p>Yes, we offer tailored pricing and support for organisations, businesses, and professionals who require larger quantities of our products. <a href=\"/pages/bulk-order-discounts\" title=\"Bulk Order Discounts\">Contact us</a> to discuss your needs today.</p>",
             "custom_liquid": "",
             "page": "",
             "open": false
