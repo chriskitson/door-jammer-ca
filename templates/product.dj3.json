@@ -712,6 +712,48 @@
         "divider_layout": "vertical"
       }
     },
+    "rich_text_La3PNt": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KgyCMk": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bulk & Large Quantity Orders",
+            "heading_size": "hd2",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_nyNXWp": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>Globally Trusted Door Security Devices For Businesses, Schools & Organisations</strong></h2><p>If you’re looking to place a bulk or large quantity order, DoorJammer offers tailored pricing and support for organisations, businesses, and professionals.</p>",
+            "text_size": "text-base"
+          }
+        },
+        "button_KdLqN9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Enquire About Bulk Orders Here",
+            "button_link": "shopify://pages/bulk-order-discounts",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KgyCMk",
+        "text_nyNXWp",
+        "button_KdLqN9"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "color_scheme": "scheme-inverse",
+        "content_alignment": "center",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
     "recently_viewed_products_kzzaeq": {
       "type": "recently-viewed-products",
       "name": "t:sections.recently-viewed-products.name",
@@ -774,6 +816,7 @@
     "rich_text_EKx3k7",
     "collapsible_tabs_phAkEE",
     "scrolling_promotion_WAekUk",
+    "rich_text_La3PNt",
     "recently_viewed_products_kzzaeq",
     "related-products"
   ]
