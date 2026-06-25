@@ -80,17 +80,6 @@
             "open": false
           }
         },
-        "collapsible_item_RQ3WzW": {
-          "type": "collapsible_item",
-          "settings": {
-            "icon": "none",
-            "heading": "Do I need to use the provided spacers?",
-            "content": "<p>No, the spacers can improve performance but DoorJammer was designed and tested without them.</p>",
-            "custom_liquid": "",
-            "page": "",
-            "open": false
-          }
-        },
         "collapsible_item_aKpRFm": {
           "type": "collapsible_item",
           "settings": {
@@ -271,7 +260,6 @@
       "block_order": [
         "collapsible_item_giGMnh",
         "collapsible_item_eFemDY",
-        "collapsible_item_RQ3WzW",
         "collapsible_item_aKpRFm",
         "collapsible_item_3c4PkF",
         "collapsible_item_Hwt9zL",
