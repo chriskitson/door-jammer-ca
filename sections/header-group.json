@@ -31,6 +31,7 @@
         },
         "text_MU4KUX": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "🚚 Free Shipping on all Canadian orders",
             "text_link": "",
